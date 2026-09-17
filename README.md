@@ -9,7 +9,7 @@ Built by **Oscar J. Villa García** · [ojviga@gmail.com](mailto:ojviga@gmail.co
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/oscarjvilla290/data-dashboard.git
+git clone https://github.com/oscarj290/data-dashboard.git
 cd data-dashboard && pip install -r requirements.txt
 python src/dashboard.py data/your_file.csv
 ```
